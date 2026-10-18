@@ -1,59 +1,65 @@
-# 📊 E-Commerce Business Performance Analysis
+# E-Commerce Business Performance Analysis
 
-An Excel-based business analysis project exploring e-commerce sales, product performance, profitability, order status, and monthly sales trends for 2024–2025.
+An Excel-based business analysis project exploring e-commerce sales performance, product profitability, customer trends, and order status across 2024–2025.
 
-## 🖥️ Dashboard Preview
+## 📊 Dashboard Preview
 
-### 1. Business Performance Dashboard
+### Business Performance Dashboard
 
-![Dashboard Overview](./dashboard-overview.png.png)
+![Business Performance Dashboard](./dashboard-overview.png.png)
 
-### 2. Category and Profitability Analysis
+### Category and Profitability Analysis
 
-![Dashboard Analysis](./dashboard-analysis.png.png)
+![Category and Profitability Analysis](./dashboard-analysis.png.png)
 
-### 3. Monthly Sales and Product Analysis
+### Monthly Sales and Product Analysis
 
 ![Monthly Sales and Product Analysis](./monthly-sales-and-product-analysis.png.png)
 
----
-
 ## 📌 Key Performance Indicators
 
-| Metric | Result |
-|---|---:|
-| Total Recorded Net Sales | ₹72,97,477.80 |
-| Total Recorded Gross Profit | ₹23,56,599.00 |
-| Overall Profit Margin | 32.29% |
-| Delivery Rate | 72.76% |
-| Return Rate | 17.52% |
+- **Total Recorded Net Sales:** ₹72,97,477.80
+- **Total Recorded Gross Profit:** ₹23,56,599.00
+- **Overall Profit Margin:** 32.29%
+- **Delivery Rate:** 72.76%
+- **Recorded Return Rate:** 17.52%
 
-## 🔍 Key Business Insights
+*Note: These metrics are based on the recorded dataset. Net sales include orders across recorded statuses, including cancelled and returned orders.*
 
-- **Sales Growth:** Recorded net sales increased by approximately 7.04% from 2024 to 2025.
-- **Top Category:** Electronics contributed approximately 38.9% of recorded net sales.
-- **Top Profit-Generating Product:** Monitor generated ₹3,72,106 in gross profit.
-- **Returns:** The recorded return rate was 17.52%, highlighting an area for further investigation.
+## 🔍 Project Objectives
 
-## 🛠️ Tools and Skills
+- Analyze sales performance across regions and product categories.
+- Identify top-performing products by net sales and gross profit.
+- Track monthly sales trends for 2024 and 2025.
+- Calculate gross profit and profit margin.
+- Examine order statuses, delivery rate, and return rate.
+- Clean and validate data using Excel and Power Query.
+
+## 🛠️ Tools and Techniques
 
 - Microsoft Excel
-- Power Query for data cleaning and transformation
-- Excel formulas and XLOOKUP
+- Power Query
 - PivotTables and PivotCharts
-- KPI dashboard development
-- Data visualization and business analysis
+- XLOOKUP and Excel formulas
+- Data cleaning and validation
+- Dashboard design and data visualization
 
-## 📁 Project Workbook
+## 💡 Key Business Insights
 
-**File:** `Ecommerce_Business_Analysis_Advanced_Practice.xlsx`
+- **Sales growth:** Recorded net sales increased by approximately 7.04% from 2024 to 2025.
+- **Top category:** Electronics contributed approximately 38.9% of recorded net sales.
+- **Product performance:** Monitor generated the highest gross profit among the products.
+- **Returns:** The recorded return rate was 17.52%, suggesting an area for further investigation.
 
-Download the Excel workbook from the file list above to explore the data, calculations, PivotTables, and dashboard.
+## 📁 Project Files
 
-## 📝 Dataset Note
+- `Ecommerce_Business_Analysis_Advanced_Practice.xlsx` — Excel workbook containing the dataset, cleaning records, analysis, PivotTables, and dashboard.
+- `dashboard-overview.png.png` — Dashboard overview screenshot.
+- `dashboard-analysis.png.png` — Category and profitability screenshot.
+- `monthly-sales-and-product-analysis.png.png` — Monthly sales and product analysis screenshot.
 
-This project uses a practice dataset. Sales and profit metrics include orders with different statuses and should be interpreted as recorded figures rather than confirmed realized revenue.
+## 👨‍💻 Author
 
-## 🎯 Project Objective
+**Shaik Jani Baba**
 
-To demonstrate practical Excel data analysis skills by transforming raw e-commerce data into meaningful business metrics, visualizations, and actionable insights.
+GitHub: [Janibaba-560](https://github.com/Janibaba-560)
